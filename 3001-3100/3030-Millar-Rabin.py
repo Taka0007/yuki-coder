@@ -1,3 +1,6 @@
+# 問題リンク: https://yukicoder.me/problems/no/3030
+# 提出リンク: https://yukicoder.me/submissions/917756
+
 import random
 
 def is_prime_miller_rabin(n, k=10):
