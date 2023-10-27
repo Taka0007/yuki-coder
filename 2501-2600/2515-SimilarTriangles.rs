@@ -1,3 +1,6 @@
+// Problem: https://yukicoder.me/problems/no/2515
+// Submission: https://yukicoder.me/submissions/923987
+
 use std::io;
 
 fn main(){
